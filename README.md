@@ -42,7 +42,13 @@ Final Score ─▶️ Explainability Engine ─▶️ What-If Simulator ─▶�
 ---
 
 ## ✨ Key Features
+## Ethical AI & Bias Awareness
+The system includes JD sensitivity analysis to detect:
+- Over-weighted requirements
+- Unrealistic skill expectations
+- Minor wording changes causing major rank shifts
 
+This helps prevent biased or unstable hiring decisions.
 ### 1️⃣ Resume–Job Ranking
 Scores a resume against a job description using weighted evaluation.
 
